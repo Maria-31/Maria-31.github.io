@@ -7,6 +7,7 @@ bienvenidos a i pagina  M&A
   language-code="es"
 ></df-messenger>
 
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -66,4 +67,3 @@ bienvenidos a i pagina  M&A
         }
     }
 </script>
-
